@@ -52,6 +52,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
 ## Week 1-2 - Algorithms & Machine Learning
+- Blog https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 - Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/
 
 ## Week 3 - Deep Learning
