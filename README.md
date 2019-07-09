@@ -72,7 +72,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - Spark Workshop https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf 
 
 ## Week 3 Data Storytelling
-- Edx https://www.edx.org/course/analytics-storytelling-impact-1
+- Coursera https://www.coursera.org/specializations/data-visualization
 
 ## Week 4 Kaggle Project #3
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
