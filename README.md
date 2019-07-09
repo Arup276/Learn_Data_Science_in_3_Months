@@ -64,8 +64,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 # Month 3 - Real-World Tools
 
 ## Week 1 Databases (SQL + NoSQL) 
-- Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197
-- EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2
+- Coursera https://www.coursera.org/learn/sql-data-science
 
 ## Week 2 Hadoop & Map Reduce + Spark
 - Udacity https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
